@@ -20,14 +20,14 @@ for(i=0;i<10;i++){
 if(input!= array[i]){
 printf("That value does not exist in the array!\n");
 }
-}
+
 for (i=0;i<10;i++){
 if(input== array[i]){
 printf("\n array[%d] = %d ", i, array[i]);
 
         }
        }
-      
+      }
 
 return 0;
 }
